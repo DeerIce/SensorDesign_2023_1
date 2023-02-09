@@ -1,0 +1,3 @@
+据了解，dsn为旧版Proteus工程文件格式，Proteus 8以上版本为pdsprj。
+
+芯片已导入hex文件，可直接仿真，无需监听keil。

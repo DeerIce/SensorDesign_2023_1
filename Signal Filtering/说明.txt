@@ -1,0 +1,12 @@
+软件版本及已安装的工具箱：
+MATLAB                                                		Version 9.2	(R2017a)
+Computer Vision System Toolbox                        	Version 7.3         	(R2017a)
+Control System Toolbox                                	Version 10.2        	(R2017a)
+Global Optimization Toolbox                           	Version 3.4.2       	(R2017a)
+Image Processing Toolbox                              	Version 10.0        	(R2017a)
+MATLAB Coder                                          	Version 3.3         	(R2017a)
+MATLAB Compiler                                       	Version 6.4         	(R2017a)
+Optimization Toolbox                                  	Version 7.6         	(R2017a)
+Signal Processing Toolbox                             	Version 7.4         	(R2017a)
+Statistics and Machine Learning Toolbox               	Version 11.1        	(R2017a)
+Symbolic Math Toolbox                                 	Version 7.2         	(R2017a)
